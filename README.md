@@ -1,8 +1,9 @@
-Here's a comprehensive README file template for your Movie Recommendation System with Sentiment Analysis project. You can customize it as needed and fill in specific details where necessary.
 
-```markdown
+
+
 # Movie Recommendation System with Sentiment Analysis
 
+```
 ![Project Logo](path/to/logo.png)
 
 ## Table of Contents
@@ -150,11 +151,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [Hugging Face](https://huggingface.co/) for their Transformers library.
 - [Flask](https://flask.palletsprojects.com/) for the web framework.
 
-```
 
-### Customization
-- Replace `path/to/logo.png` with the path to your project logo or remove the line if not needed.
-- Update the clone URL in the **Installation** section to point to your GitHub repository.
-- You can expand on each section with more details, images, or examples if desired.
-
-Feel free to adjust any sections according to your project's specifics!
