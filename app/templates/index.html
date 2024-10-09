@@ -1,0 +1,18 @@
+<!-- templates/index.html -->
+<!DOCTYPE html>
+<html>
+<head><title>Movie Recommender</title></head>
+<body>
+    <h2>Welcome to Movie Recommender</h2>
+    <form action="/recommend" method="post">
+        <label for="user_id">User ID:</label>
+        <input type="text" id="user_id" name="user_id">
+        <button type="submit">Get Recommendations</button>
+    </form>
+    <form action="/sentiment" method="post">
+        <label for="review">Movie Review:</label>
+        <textarea id="review" name="review"></textarea>
+        <button type="submit">Analyze Sentiment</button>
+    </form>
+</body>
+</html>
